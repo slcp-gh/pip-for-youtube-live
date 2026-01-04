@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>YouTube Live PIP</title>
+  <link rel="stylesheet" href="pip.css">
+</head>
+<body>
+  <div id="container">
+    <!-- ビデオエリア -->
+    <div id="video-container">
+      <iframe id="video-frame" frameborder="0" allowfullscreen allow="autoplay; encrypted-media; picture-in-picture"></iframe>
+    </div>
+
+    <!-- チャットエリア -->
+    <div id="chat-container">
+      <iframe id="chat-frame" frameborder="0"></iframe>
+    </div>
+
+    <!-- リサイズハンドル -->
+    <div id="resize-handle" title="ドラッグしてリサイズ"></div>
+
+    <!-- コントロールバー -->
+    <div id="controls">
+      <button id="toggle-layout" title="レイアウト切替">⇄</button>
+      <button id="toggle-chat" title="チャット表示/非表示">💬</button>
+      <button id="stay-on-top" title="常に手前に表示">📌</button>
+      <div class="spacer"></div>
+      <button id="close-btn" title="閉じる">✕</button>
+    </div>
+  </div>
+
+  <script src="pip.js"></script>
+</body>
+</html>
