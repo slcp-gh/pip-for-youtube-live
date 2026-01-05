@@ -4,8 +4,7 @@
   "version": "1.0.0",
   "description": "YouTube LiveをチャットとともにPIPで表示",
   "permissions": [
-    "activeTab",
-    "scripting"
+    "activeTab"
   ],
   "host_permissions": [
     "https://www.youtube.com/*"

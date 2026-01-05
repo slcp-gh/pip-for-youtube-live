@@ -32,7 +32,6 @@ This extension operates entirely locally within your browser:
 | Permission | Purpose |
 |------------|---------|
 | `activeTab` | To access the current YouTube tab and enable PIP functionality |
-| `scripting` | To inject the PIP button into YouTube's video player |
 | `host_permissions` (youtube.com) | To operate on YouTube pages |
 
 ### Third-Party Services
@@ -79,7 +78,6 @@ If you have any questions about this privacy policy, please open an issue on our
 | 権限 | 目的 |
 |------|------|
 | `activeTab` | 現在のYouTubeタブにアクセスしPIP機能を有効にするため |
-| `scripting` | YouTubeの動画プレイヤーにPIPボタンを追加するため |
 | `host_permissions` (youtube.com) | YouTubeページで動作するため |
 
 ### サードパーティサービス
