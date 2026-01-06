@@ -1,6 +1,6 @@
 # Privacy Policy / プライバシーポリシー
 
-**Last Updated / 最終更新日: January 4, 2026**
+**Last Updated / 最終更新日: January 7, 2026**
 
 ## English
 
@@ -31,8 +31,7 @@ This extension operates entirely locally within your browser:
 
 | Permission | Purpose |
 |------------|---------|
-| `activeTab` | To access the current YouTube tab and enable PIP functionality |
-| `host_permissions` (youtube.com) | To operate on YouTube pages |
+| `host_permissions` (youtube.com) | To operate on YouTube pages and enable PIP functionality |
 
 ### Third-Party Services
 
@@ -77,8 +76,7 @@ If you have any questions about this privacy policy, please open an issue on our
 
 | 権限 | 目的 |
 |------|------|
-| `activeTab` | 現在のYouTubeタブにアクセスしPIP機能を有効にするため |
-| `host_permissions` (youtube.com) | YouTubeページで動作するため |
+| `host_permissions` (youtube.com) | YouTubeページで動作しPIP機能を有効にするため |
 
 ### サードパーティサービス
 
